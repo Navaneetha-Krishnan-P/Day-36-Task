@@ -1,0 +1,25 @@
+[{
+    "company_name":"HCL",
+    "date":"2020-09-25",
+    "students_appeared":"Krishna,Saran,Navi"
+},
+{
+    "company_name":"CTS",
+    "date":"2020-10-16",
+    "students_appeared":"Selva,Bala,Hari"
+},
+{
+    "company_name":"TCS",
+    "date":"2020-10-27",
+    "students_appeared":"Krishna,Bharath,Swami,Vicky,Arun"
+},
+{
+    "company_name":"ZOHO",
+    "date":"2020-11-15",
+    "students_appeared":"Arun,Hari,Saran"
+},
+{
+    "company_name":"GUVI",
+    "date":"2020-11-25",
+    "students_appeared":"Krishna,Selva,Vicky,Bharath"
+}]

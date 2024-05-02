@@ -1,0 +1,54 @@
+[{
+    "user_name":"Krishna",
+    "date":"2020-10-16",
+    "attendance":"Absent",
+    "task_submission":"Not-Submitted"
+},
+{
+    "user_name":"Bharath",
+    "date":"2020-10-20",
+    "attendance":"Absent",
+    "task_submission":"Not-Submitted"
+},
+{
+    "user_name":"Saran",
+    "date":"2020-10-25",
+    "attendance":"Absent",
+    "task_submission":"Not-Submitted"
+},
+{
+    "user_name":"Navi",
+    "date":"2020-10-29",
+    "attendance":"Present",
+    "task_submission":"Submitted"
+},
+{
+    "user_name":"Arun",
+    "date":"2020-11-01",
+    "attendance":"Absent",
+    "task_submission":"Submitted"
+},
+{
+    "user_name":"Selva",
+    "date":"2020-11-05",
+    "attendance":"Absent",
+    "task_submission":"Submitted"
+},
+{
+    "user_name":"Vicky",
+    "date":"2020-11-10",
+    "attendance":"Absent",
+    "task_submission":"Submitted"
+},
+{
+    "user_name":"Bala",
+    "date":"2020-11-16",
+    "attendance":"Present",
+    "task_submission":"Not-Submitted"
+},
+{
+    "user_name":"Hari",
+    "date":"2020-11-20",
+    "attendance":"Present",
+    "task_submission":"Submitted"
+}]

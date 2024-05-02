@@ -1,0 +1,38 @@
+[
+  {
+    "user": "Krishna",
+    "month": "October",
+    "leave_count": 2,
+    "leave_date": "2020/10/02,2020/10/03"
+  },
+  {
+    "user": "Saran",
+    "month": "October",
+    "leave_count": 1,
+    "leave_date": "2020/10/10"
+  },
+  {
+    "user": "Bharath",
+    "month": "October",
+    "leave_count": 0,
+    "leave_date": "Nil"
+  },
+  {
+    "user": "Navi",
+    "month": "October",
+    "leave_count": 2,
+    "leave_date": "2020/10/04,2020/10/11"
+  },
+  {
+    "user": "Bala",
+    "month": "October",
+    "leave_count": 6,
+    "leave_date": "2020/10/20,2020/10/21,2020/10/22,2020/10/23,2020/10/24,2020/10/25"
+  },
+  {
+    "user": "Selva",
+    "month": "October",
+    "leave_count": 3,
+    "leave_date": "2020/10/05,2020/10/06,2020/10/29"
+  }
+]

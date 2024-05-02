@@ -1,0 +1,40 @@
+[{
+    "topic":"Javascript_Day1",
+    "month":"October",
+    "task":"Functions"
+},
+{
+    "topic":"javascript_Day2",
+    "month":"October",
+    "task":"for loops"
+},
+{
+    "topic":"Javascript_Day3",
+    "month":"October",
+    "task":"OOPS"
+},
+{
+    "topic":"Javascript_Day4",
+    "month":"October",
+    "task":"class"
+},
+{
+    "topic":"Javascript_Day5",
+    "month":"October",
+    "task":"ES5 vs ES6"
+},
+{
+    "topic":"HTML_Day1",
+    "month":"November",
+    "task":"blog about html"
+},
+{
+    "topic":"HTML_Day2",
+    "month":"November",
+    "task":"elements/tags"
+},
+{
+    "topic":"HTML_Day3",
+    "month":"November",
+    "task":"inputs"
+}]
